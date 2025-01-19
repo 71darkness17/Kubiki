@@ -597,13 +597,26 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-01-18 20:17:35 +0300"
+      "cooked_porkchop": "2025-01-18 20:17:35 +0300",
+      "cooked_beef": "2025-01-19 09:20:03 +0300"
     },
     "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-18 20:17:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-19 11:07:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-19 11:07:17 +0300"
     },
     "done": true
   },
